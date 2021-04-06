@@ -19,7 +19,9 @@ To Use:
 
 Press Control C to stop the server or the builder
 
-Turn on github pages and put a link to your site in the readme when you turn in the github repo link.
+**Turn on github pages and put a link to your site in the readme when you turn in the github repo link.**
+
+https://cl598.github.io/webpack/
 
 Working site here:
 
